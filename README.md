@@ -1,2 +1,2 @@
 # SL_lab
-Software Lab Assignment 2
+Software Lab 2 Assignment 2
